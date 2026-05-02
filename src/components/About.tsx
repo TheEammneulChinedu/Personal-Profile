@@ -17,7 +17,7 @@ export default function About({ id }: { id: string }) {
             <div className="relative aspect-[4/5] rounded-[2rem] overflow-hidden border border-white/10">
               {/* Replace src with actual portrait path if known */}
               <img 
-                src="/IMG_3817(1).jpg
+                src="https://res.cloudinary.com/dqqff6jli/image/upload/v1777728204/IMG_3817_2_rc77il.jpg
                 "
                 alt="Chinedu Emmanuel"
                 className="w-full h-full object-cover grayscale brightness-90 group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700"
