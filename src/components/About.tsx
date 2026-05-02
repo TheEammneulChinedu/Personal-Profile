@@ -17,7 +17,8 @@ export default function About({ id }: { id: string }) {
             <div className="relative aspect-[4/5] rounded-[2rem] overflow-hidden border border-white/10">
               {/* Replace src with actual portrait path if known */}
               <img 
-                src="IMG_3817(1).jpg"
+                src="/IMG_3817(1).jpg
+                "
                 alt="Chinedu Emmanuel"
                 className="w-full h-full object-cover grayscale brightness-90 group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700"
                 referrerPolicy="no-referrer"
